@@ -14,3 +14,10 @@
 
 ## Thougthful Machine Learning with Python
 - [Chapter 2](thougthfulml/ch2.ipynb)
+
+## Books to read
+- [Think Bayes](http://greenteapress.com/wp/think-bayes/)
+- [Think Stats](http://greenteapress.com/wp/think-stats-2e/)
+- [Practical Statistics for Data Scientists: 50 Essential Concepts]
+- [Harry Potter and the Methods of Rationality](http://www.hpmor.com)
+- [[RUS] Harry Potter and the Methods of Rationality](http://hpmor.ru)
